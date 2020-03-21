@@ -1,0 +1,42 @@
+header {
+    background: url(../img/design-2/portada.jpg) no-repeat;
+    background-attachment: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+header h1 {
+    font-family: 'Delius Unicase', cursive;
+    color: #e4ab9a;
+}
+
+
+/**
+*   Los estilos propios en el diseño comiezan con .gs-
+*/
+
+.gs-bg-white {
+    background: rgba(255, 255, 255, 0.7);
+}
+
+main h2 {
+    font-family: 'Delius Unicase', cursive;
+    color: #ffffff;
+    background: #e4ab9a;
+}
+
+.gs-btn-pink {
+    color: #fff;
+    background: #e4ab9a;
+    border: 1px solid #e4ab9a;
+}
+
+.gs-price {
+    color: #e4ab9a;
+}
+
+.gs-btn-whatsapp {
+    bottom: 20px;
+    right: 20px;
+    width: 64px;
+}

@@ -1,0 +1,8 @@
+.formulario {
+    background: url(../img/design-3/form.jpg) no-repeat;
+    background-attachment: fixed;
+}
+
+.form-overlay {
+    background: rgba(255, 255, 255, 0.5);
+}
